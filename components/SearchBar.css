@@ -1,0 +1,23 @@
+/* .search-bar-container {
+    position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    z-index: 999;  
+  }
+.cardDiv{
+  position:relative;
+  padding: 2rem 1rem;
+  background:var(--whiteColor);
+  border-radius:10px;
+  gap:1rem;
+
+  label{
+    display: block;
+    color:var(--textColor);
+    padding-bottom: 10px;
+    font-size:13px;
+    font-weight:500;
+  }
+  
+} */
